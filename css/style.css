@@ -1,0 +1,19 @@
+div > p {
+  color: red;
+}
+
+.long  {
+  color:green;
+}
+
+.success + p {
+  color:brown;
+}
+
+.formal p {
+color:blueviolet;
+}
+
+.footer > .promise {
+  color:rgb(212, 0, 255);
+}
